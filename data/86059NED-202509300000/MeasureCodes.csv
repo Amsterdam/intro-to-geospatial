@@ -1,0 +1,76 @@
+Identifier;MeasureGroupId;Index;Title;Description;DataType;Unit;Decimals;PresentationType
+GM000B;M003166;2;Code;"De gemeentecode is gebaseerd op de officiële schrijfwijze van de naam van de gemeente en is uniek in relatie tot die naam. De code wordt door het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) in overleg met CBS vastgesteld.
+";String;code;0;
+GM000C_1;M003166;3;Naam;De naam van de gemeente volgt de officiële schrijfwijze. Lidwoorden en voorvoegsels staan dus voor de gemeentenaam (bijv. De Bilt), terwijl tevens de officiële schrijfwijze in hoofdletters en kleine letters is gevolgd.;String;naam;0;
+GM000C_2;M003166;4;Sortering naam;"Een hulpmiddel voor het sorteren van namen van gemeenten op alfabetische volgorde. Bij de bepaling van deze volgorde zijn de volgende regels in acht genomen:
+- voorvoegsels en lidwoorden hebben geen invloed op de volgorde (dus De Bilt onder B), 
+- verbindingsstreepjes gelden als een letter (Alphen aan den Rijn komt voor Alphen-Chaam),
+- de IJ (bijvoorbeeld IJsselstein) valt onder de I.
+Het sorteerveld van gemeentenamen is vooral bedoeld om buiten StatLine namen van gemeenten (rijks)alfabetisch te ordenen.
+";String;naam;0;
+AM0001;AM0000;7;Code;Codes van de arbeidsmarktregio's.;String;code;0;
+AM0002;AM0000;8;Naam;Namen van de arbeidsmarktregio's.;String;naam;0;
+AR0001;AR0000;10;Code;Codes van de rechtsgebieden van de arrondissementen.;String;code;0;
+AR0002;AR0000;11;Naam;Namen van de rechtsgebieden van de arrondissementen.;String;naam;0;
+CE0001;CE0000;13;Code;Codes van de Centrumgemeenten maatschappelijke opvang en beschermd wonen.;String;code;0;
+CE0002;CE0000;14;Naam;Namen van de Centrumgemeenten maatschappelijke opvang en beschermd wonen.;String;naam;0;
+CR0001;CR0000;16;Code;Codes van de COROP-gebieden.;String;code;0;
+CR0002;CR0000;17;Naam;Namen van de COROP-gebieden.;String;naam;0;
+CS0001;CS0000;19;Code;Codes van de COROP-subgebieden.;String;code;0;
+CS0002;CS0000;20;Naam;Namen van de COROP-subgebieden.;String;naam;0;
+CP0001;CP0000;22;Code;Codes van de COROP-plusgebieden.;String;code;0;
+CP0002;CP0000;23;Naam;Namen van de COROP-plusgebieden.;String;naam;0;
+GG0001;GG0000;25;Code;Codes van de samenwerkingsgebieden voor gemeentelijke gezondheidsdiensten (GGD).;String;code;0;
+GG0002;GG0000;26;Naam;Namen van de samenwerkingsgebieden voor gemeentelijke gezondheidsdiensten (GGD).;String;naam;0;
+JZ0001;JZ0000;28;Code;Codes van de jeugdregio's.;String;code;0;
+JZ0002;JZ0000;29;Naam;Namen van de jeugdregio's.;String;naam;0;
+KK0001;KK0000;31;Code;Codes van de Kamer van Koophandel regio's (KVK).;String;code;0;
+KK0002;KK0000;32;Naam;Namen van de Kamer van Koophandel regio's (KVK).;String;naam;0;
+LB0001;LB0000;34;Code;Codes van de landbouwgebieden.;String;code;0;
+LB0002;LB0000;35;Naam;Namen van de landbouwgebieden. Een aantal namen is vanwege hun lengte afgekort.;String;naam;0;
+LG0001;LG0000;37;Code;Codes van de groepen van landbouwgebieden.;String;code;0;
+LG0002;LG0000;38;Naam;"Namen van de groepen van landbouwgebieden.
+";String;naam;0;
+LD0001;LD0000;40;Code;Codes van de landsdelen.;String;code;0;
+LD0002;LD0000;41;Naam;Namen van de landsdelen.;String;naam;0;
+PV0001;PV0000;43;Code;Codes van de provincies. De codering houdt rekening met de wijziging in volgorde van provincies vanwege de instelling van de provincie Flevoland per 1 januari 1986.;String;code;0;
+PV0002;PV0000;44;Naam;Namen van de provincies.;String;naam;0;
+RE0001;RE0000;46;Code;Codes van de regionale eenheden.;String;code;0;
+RE0002;RE0000;47;Naam;Namen van de regionale eenheden.;String;naam;0;
+ES0001;ES0000;49;Code;Codes van de Regionale Energiestrategie regio’s.;String;code;0;
+ES0002;ES0000;50;Naam;Namen van de Regionale Energiestrategie regio’s.;String;naam;0;
+MC0001;MC0000;52;Code;Codes van de Regionale Meld- en Coördinatiepunten;String;code;0;
+MC0002;MC0000;53;Naam;Namen van de Regionale Meld- en Coördinatiepunten;String;naam;0;
+RA0001;RA0000;55;Code;Codes van de RegioPlus-arbeidsmarktregio's.;String;code;0;
+RA0002;RA0000;56;Naam;Namen van de RegioPlus-arbeidsmarktregio's.;String;naam;0;
+RT0001;RT0000;58;Code;Codes van de ressorten (gerechtshoven).;String;code;0;
+RT0002;RT0000;59;Naam;Namen van de ressorten (gerechtshoven).;String;naam;0;
+ET0002;ET0000;61;Code;Codes van de SubRES-regio’s.;String;code;0;
+ET0001;ET0000;62;Naam;Namen van de SubRES-regio’s.;String;naam;0;
+TR0001;TR0000;64;Code;Codes van de toeristengebieden.;String;code;0;
+TR0002;TR0000;65;Naam;Namen van de toeristengebieden. Een aantal namen is vanwege hun lengte afgekort.;String;naam;0;
+TG0001;TG0000;67;Code;Codes van de groepen van toeristengebieden.;String;code;0;
+TG0002;TG0000;68;Naam;Namen van de groepen van toeristengebieden.;String;naam;0;
+VT0001;VT0000;70;Code;Codes van de Veilig Thuis regio's.;String;code;0;
+VT0002;VT0000;71;Naam;Namen van de Veilig Thuis regio's.;String;naam;0;
+VR0001;VR0000;73;Code;Codes van de veiligheidsregio's.;String;code;0;
+VR0002;VR0000;74;Naam;Namen van de veiligheidsregio's.;String;naam;0;
+ZK0001;ZK0000;76;Code;Codes van de zorgkantoorregio's.;String;code;0;
+ZK0002;ZK0000;77;Naam;Namen van de zorgkantoorregio's.;String;naam;0;
+GM000E;T001036_1;80;Code;"Codes (1 t/m 8) van de grootteklassen van gemeenten. De volgende klassen worden onderscheiden:
+minder dan 5 000 inwoners (code 1)
+5 000 tot 10 000 inwoners (code 2)
+10 000 tot 20 000 inwoners (code 3)
+20 000 tot 50 000 inwoners (code 4)
+50 000 tot 100 000 inwoners (code 5)
+100 000 tot 150 000 inwoners (code 6)
+150 000 tot 250 000 inwoners (code 7)
+250 000 inwoners of meer (code 8)
+";String;code;0;
+GM000D;T001036_1;81;Omschrijving;Omschrijving van de grootteklassen van gemeenten naar inwonertal.;String;omschrijving;0;
+ST0001;T001086;83;Code;Codes van de stedelijkheidsklassen van gemeenten.;String;code;0;
+ST0002;T001086;84;Omschrijving;Omschrijvingen van de stedelijkheidsklassen van gemeenten.;String;omschrijving;0;
+T001036_2;M006794;86;Inwonertal;Aantal inwoners op 1 januari van het verslagjaar.;Long;aantal;0;
+ST0003;M006794;87;Omgevingsadressendichtheid;"De omgevingsadressendichtheid op 1 januari van het verslagjaar.
+De omgevingsadressendichtheid (Oad) is het gemiddeld aantal adressen per km2 dat een adres binnen zijn omgeving heeft. Als omgeving van een adres wordt een cirkel aangehouden met een straal van 1 km rondom dat adres. Het CBS heeft in 1992 de omgevingsadressendichtheid ontwikkeld als een nieuwe maatstaf voor stedelijkheid in de statistiek. De maatstaf beoogt de mate van concentratie van menselijke activiteiten (wonen, werken, schoolgaan, winkelen, uitgaan, etc.) in een gebied weer te geven.
+";Long;per km2;0;

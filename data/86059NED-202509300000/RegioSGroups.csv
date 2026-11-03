@@ -1,0 +1,4 @@
+Id;Index;Title;Description;ParentId;DimensionId
+0;0;Gemeenten van het jaar 2025;"Alleen de gemeenten die in het jaar 2025 hebben bestaan.
+NB: bij tabblad 'Perioden' alleen 2025 selecteren.";;RegioS
+1;1;Gemeentelijst 2025;;0;RegioS

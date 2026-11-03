@@ -1,0 +1,102 @@
+Identifier;Title;Description;Modified;ReleaseDate;ModificationDate;Language;TemporalCoverage;Authority;Catalog;Publisher;ContactPoint;Version;VersionNotes;VersionReason;Frequency;Status;ObservationCount;ObservationsModified;DatasetType;GraphTypes;License;Source;Summary;LongDescription
+86059NED;Gebieden in Nederland 2025;"In deze tabel wordt een relatie gelegd tussen de gemeentelijke indeling (het laagste bestuurlijk niveau in Nederland) op 1 januari 2025 en diverse onderverdelingen van het Nederlands grondgebied op bovengemeentelijk niveau. Met de informatie uit deze tabel kunnen cijfers van gemeenten bij elkaar worden opgeteld, zodat ook cijfers op bovengemeentelijk niveau kunnen worden berekend. Voor de indeling naar toeristengebieden zijn hierop uitzonderingen van toepassing. Klik in de tabel op de betreffende kolomkop ('Toeristengebieden') om detailinformatie te krijgen.
+
+De tabel is opgebouwd uit:
+- Codes en namen van gemeenten.
+- Lokaliseringen van gemeenten. Hierbij wordt aangegeven tot welke bovengemeentelijke gebieden een gemeente behoort.
+- Grootte en stedelijkheid van gemeenten.
+- Statistische gegevens. Hieronder vallen het inwonertal en de omgevingsadressendichtheid. Op deze gegevens zijn de grootte en stedelijkheid van gemeenten gebaseerd.
+
+Per gemeente wordt in de tabel vermeld van welke bovengemeentelijke gebieden de gemeente deel uitmaakt. Anderzijds kunnen bij de landsdelen, provincies en COROP-gebieden de bijbehorende gemeenten worden gezocht.
+ 
+Gegevens beschikbaar over 2025 
+
+Status van de cijfers: 
+Alle gegevens zijn definitief. 
+
+Wijzigingen per september 2025:
+De definitieve cijfers betreffende Centrumgemeenten en Regionale politie-eenheden zijn toegevoegd. 
+
+Wijzigingen per juli 2025:
+De definitieve cijfers betreffende gemeentegrootte, stedelijkheid, aantal inwoners en omgevingsadressendichtheid zijn toegevoegd. 
+
+Wanneer komen er nieuwe cijfers?
+In het najaar wordt een nieuwe tabel met de meest recente gebiedsindelingen voor het komende jaar samengesteld. Nog niet alle gebiedsindelingen en statistische gegevens zijn dan al beschikbaar, deze worden in de maanden daarna toegevoegd. Eind maart worden ook de statistische gegevens toegevoegd.  In de zomer van het jaar worden de gegevens definitief vastgesteld.
+Zie paragraaf 3 voor een link naar de andere jaartabellen.
+
+
+";2025-09-30T00:00:00+02:00;2025-09-30T00:00:00+02:00;2025-09-30T00:00:00+02:00;nl;2025;https://standaarden.overheid.nl/owms/terms/Centraal_Bureau_voor_de_Statistiek;CBS;https://standaarden.overheid.nl/owms/terms/Centraal_Bureau_voor_de_Statistiek;infoservice@cbs.nl;202509300000;;Actualisering bijzonder;Onregelmatig;Regulier;19494;2025-09-30T00:00:00+02:00;Mixed;Table;https://creativecommons.org/licenses/by/4.0/;CBS.;"Codes, namen en lokalisering van regionale indelingen
+Gemeenten 2025 per landsdeel, provincie en COROP-gebied";"INHOUDSOPGAVE
+
+1. Toelichting
+2. Definities en verklaring van symbolen
+3. Koppelingen naar relevante tabellen en artikelen
+4. Bronnen en methoden
+5. Meer informatie 
+
+
+1. TOELICHTING
+
+In deze tabel wordt een relatie gelegd tussen de gemeentelijke indeling (het laagste bestuurlijk niveau in Nederland) op 1 januari 2025 en diverse onderverdelingen van het Nederlands grondgebied op bovengemeentelijk niveau. Met de informatie uit deze tabel kunnen cijfers van gemeenten bij elkaar worden opgeteld, zodat ook cijfers op bovengemeentelijk niveau kunnen worden berekend. Voor de indeling naar toeristengebieden zijn hierop uitzonderingen van toepassing. Klik in de tabel op de betreffende kolomkop ('Toeristengebieden') om detailinformatie te krijgen.
+
+De tabel is opgebouwd uit:
+- Codes en namen van gemeenten.
+- Lokaliseringen van gemeenten. Hierbij wordt aangegeven tot welke bovengemeentelijke gebieden een gemeente behoort.
+- Grootte en stedelijkheid van gemeenten.
+- Statistische gegevens. Hieronder vallen het inwonertal en de omgevingsadressendichtheid. Op deze gegevens zijn de grootte en stedelijkheid van gemeenten gebaseerd.
+
+Per gemeente wordt in de tabel vermeld van welke bovengemeentelijke gebieden de gemeente deel uitmaakt. Anderzijds kunnen bij de landsdelen, provincies en COROP-gebieden de bijbehorende gemeenten worden gezocht.
+ 
+Gegevens beschikbaar over 2025 
+
+Status van de cijfers: 
+Alle gegevens zijn definitief. 
+
+Wijzigingen per september 2025:
+De definitieve cijfers betreffende Centrumgemeenten en Regionale politie-eenheden zijn toegevoegd. 
+
+Wijzigingen per juli 2025:
+De definitieve cijfers betreffende gemeentegrootte, stedelijkheid, aantal inwoners en omgevingsadressendichtheid zijn toegevoegd. 
+
+Wanneer komen er nieuwe cijfers?
+In het najaar wordt een nieuwe tabel met de meest recente gebiedsindelingen voor het komende jaar samengesteld. Nog niet alle gebiedsindelingen en statistische gegevens zijn dan al beschikbaar, deze worden in de maanden daarna toegevoegd. Eind maart worden ook de statistische gegevens toegevoegd.  In de zomer van het jaar worden de gegevens definitief vastgesteld.
+Zie paragraaf 3 voor een link naar de andere jaartabellen.
+
+
+2. DEFINITIES EN VERKLARING VAN SYMBOLEN
+
+Definities
+
+Bovengemeentelijk niveau:
+Regionale indelingen op een bovengemeentelijk niveau worden gevormd door samenvoegingen van gemeenten tot regio's met een geografische, statistische of beleidsmatige functie. 
+
+Verklaring van symbolen:
+
+niets (blanco)	: het cijfer kan op logische gronden niet voorkomen
+. 		: het cijfer is onbekend, onvoldoende betrouwbaar of geheim
+*		: voorlopige cijfers
+**		: nader voorlopige cijfers
+
+
+3. KOPPELINGEN NAAR RELEVANTE TABELLEN EN ARTIKELEN
+
+Relevante tabellen:
+De tabellen met betrekking tot gebieden in Nederland voor de meest recente jaren vindt u in het thema <a href='https://opendata.cbs.nl/statline/#/CBS/nl/navigatieScherm/thema?themaNr=4450'>Nederland regionaal/Indelingen/Gebieden in Nederland</a>, de tabellen van de oudere jaren in <a href='https://opendata.cbs.nl/statline/#/CBS/nl/navigatieScherm/thema?themaNr=81945'>Archief/Nederland regionaal/Indelingen/Gebieden in Nederland</a>.
+
+Een historisch overzicht van alle gebieden is te vinden in de tabel: <a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/70739NED'>Gebieden; overzicht vanaf 1830</a>. 
+
+Tabellen met betrekking tot woonplaatsen in Nederland voor de meest recente jaren vindt u in het thema <a href='https://opendata.cbs.nl/statline/#/CBS/nl/navigatieScherm/thema?themaNr=4460'>Nederland regionaal/Indelingen/Woonplaatsen in Nederland</a>, de tabellen van de oudere jaren in <a href='https://opendata.cbs.nl/statline/#/CBS/nl/navigatieScherm/thema?themaNr=81944'>Archief/Nederland regionaal/Indelingen/Plaatsnamen in Nederland</a>.
+
+
+4. BRONNEN EN METHODEN
+
+De onderzoeksmethode van deze tabel is te vinden in de onderzoeksbeschrijving <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/gebieden-in-nederland'>Gebieden in Nederland</a>.
+
+
+5. MEER INFORMATIE
+
+<a href='http://www.cbs.nl/infoservice'>Infoservice</a>
+
+Copyright (c) Centraal Bureau voor de Statistiek, Den Haag/Heerlen
+Verveelvoudiging is toegestaan, mits het CBS als bron wordt vermeld.
+"

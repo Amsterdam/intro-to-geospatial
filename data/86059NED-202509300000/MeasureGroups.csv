@@ -1,0 +1,94 @@
+Id;ParentId;Index;Title;Description
+M003166;;1;Codes en namen van gemeenten;Dit onderdeel bevat de officiële codes en namen van gemeenten en een alfabetische sortering van de namen van de gemeenten.
+P00005;;5;Lokaliseringen van gemeenten;Dit onderdeel bevat informatie over de relatie tussen de gemeentelijke indeling (het laagste bestuurlijk niveau) en diverse onderverdelingen van het Nederlandse grondgebied op bovengemeentelijk niveau.
+AM0000;P00005;6;Arbeidsmarktregio's;"AM = Arbeidsmarktregio
+Een indeling in regio's van waaruit gemeenten en het Uitvoeringsinstituut Werknemersverzekeringen (UWV) de dienstverlening aan werkgevers en werkzoekenden vormgeven. Het is een regionaal niveau tussen gemeenten en provincies in. Deze indeling is van onderop, door gemeenten zelf, tot stand gekomen.
+
+Met ingang van 1-1-2021 is de gemeente Vijfheerenlanden in zijn geheel toebedeeld aan de Arbeidsmarktregio ‘Gorinchem’, code AM35. In de jaren hiervoor was de gemeente over meerdere Arbeidsmarktregio’s verdeeld en stond daarom in deze tabel als ‘Niet in te delen’, code AM99."
+AR0000;P00005;9;Arrondissementen (rechtsgebieden);"AR = Arrondissement (rechtsgebied)
+Lokalisering van gemeenten per arrondissement. Een arrondissement is het rechtsgebied van één van de rechtbanken in Nederland. De indeling in arrondissementen betreft een onderverdeling van de ressorten, dat zijn de rechtsgebieden van de gerechtshoven.
+"
+CE0000;P00005;12;Centrumgemeenten;"CE = Centrumgemeente maatschappelijke opvang en beschermd wonen
+Lokalisering van gemeenten per centrumgemeente. Sinds de decentralisatie van de Wet Maatschappelijke Ondersteuning (Wmo) in 2015 worden de middelen voor beschermd wonen verdeeld over centrumgemeenten. Zij regelen de benodigde ondersteuning voor alle inwoners in een centrumregio, bestaande uit de centrumgemeente en meerdere regiogemeenten."
+CR0000;P00005;15;COROP-gebieden;"CR = COROP-gebied
+Lokalisering van gemeenten per COROP-gebied. De indeling in COROP-gebieden vormt een regionaal niveau tussen gemeenten en provincies in. Omstreeks 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt."
+CS0000;P00005;18;COROP-subgebieden;"CS = COROP-subgebied
+Lokalisering van gemeenten naar COROP-subgebieden. Een onderverdeling van de COROP-gebieden, waarbij de volgende gebieden zijn opgesplitst: Groot-Amsterdam, Groot-Rijnmond en Noordoost-Noord-Brabant.
+"
+CP0000;P00005;21;COROP-plusgebieden;"CP = COROP-plusgebied
+Lokalisering van gemeenten naar COROP-plusgebieden. Een onderverdeling van de COROP-(sub)gebieden, waarbij de volgende gebieden zijn opgesplitst: Utrecht, Overig Groot-Amsterdam, Agglomeratie 's-Gravenhage, Zuidoost-Zuid-Holland en Flevoland."
+GG0000;P00005;24;GGD-regio's;"GG = GGD-regio
+Een in 1990 door het toenmalig Ministerie van Welzijn, Volksgezondheid en Cultuur vastgestelde indeling in samenwerkingsgebieden voor de gemeentelijke gezondheidsdiensten (GGD). Deze indeling is in de loop der jaren verschillende keren gewijzigd. De indeling is voor het laatst herzien op 1 januari 2014. Deze indeling in GGD-regio's werd tot 2008 vermeld onder GGD-gebieden. De codering is toen ook uitgebreid van een tweecijferige naar een viercijferige code.
+"
+JZ0000;P00005;27;Jeugdregio's;"JZ = Jeugdregio 
+Een door gemeenten vastgestelde indeling in samenwerkingsgebieden voor uitvoering van de Jeugdwet (2014). In CBS-publicaties van eerdere jaren kan de term jeugdzorgregio’s voorkomen, maar met ingang van 2019 wordt gesproken van jeugdregio’s. "
+KK0000;P00005;30;Kamer van Koophandel;"KK = Kamer van Koophandel
+De indeling in werkgebieden van de Kamer van Koophandel regio's (KVK).  Per 1 januari 2014 is de indeling volledig herzien.
+"
+LB0000;P00005;33;Landbouwgebieden;"LB = Landbouwgebied
+Lokalisering van gemeenten per landbouwgebied. Groepering van gemeenten met (zoveel mogelijk) gelijksoortige typen van landbouwbedrijven. De indeling in landbouwgebieden is in 1991 door de Adviescommissie Landbouwstatistieken vastgesteld en valt binnen de provinciegrenzen."
+LG0000;P00005;36;Landbouwgebieden (groepen);"LG = Groep van landbouwgebieden
+Lokalisering van gemeenten per groep van landbouwgebieden.  Deze indeling is in 1991 tezamen met de indeling in landbouwgebieden vastgesteld door de Adviescommissie Landbouwstatistieken.
+"
+LD0000;P00005;39;Landsdelen;"LD = Landsdeel
+Lokalisering van gemeenten per landsdeel. Nederland telt 4 landsdelen:
+Noord-Nederland: Groningen, Fryslân, Drenthe
+Oost-Nederland: Overijssel, Flevoland, Gelderland
+West-Nederland: Utrecht, Noord-Holland, Zuid-Holland, Zeeland
+Zuid-Nederland: Noord-Brabant, Limburg
+"
+PV0000;P00005;42;Provincies;"PV = Provincie
+Lokalisering van gemeenten per provincie. Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+"
+RE0000;P00005;45;Regionale eenheden;"RE = Regionale eenheid
+De indeling in regionale eenheden is ingevoerd per 1 januari 2013 en berust op de Politiewet 2012. De regionale eenheden zijn onderverdeeld in districten en basisteams.
+"
+ES0000;P00005;48;Regionale Energiestrategie regio’s;"ES = Regionale Energiestrategie regio
+In het kader van het klimaatakkoord is Nederland ingedeeld in regio’s. In die regio’s werken de lokale overheden – gemeenten, provincies en waterschappen - aan het opstellen van Regionale Energiestrategieën (RES). Samen met bedrijfsleven, maatschappelijke organisaties, netbeheerders en inwoners brengen ze mogelijkheden voor lokale energiebesparing (o.a. isolatie van woningen en andere gebouwen) en duurzame opwekking van energie in kaart en de gevolgen daarvan voor het energienetwerk.
+"
+MC0000;P00005;51;Regionale Meld- en Coördinatiepunten;"MC = Regionaal Meld- en Coördinatiepunt
+In RMC-regio’s werken scholen en gemeenten samen om te voorkomen dat leerlingen zonder startkwalificatie van school gaan. Alle gemeenten in Nederland participeren in één van de RMC-regio’s. Gemeenten registreren (potentiële) voortijdige schoolverlaters (vsv’ers) en zorgen ervoor dat ze via een geschikt onderwijs- of arbeidstraject alsnog een startkwaliﬁcatie halen. 
+"
+RA0000;P00005;54;RegioPlus-arbeidsmarktregio's;"RA = RegioPlus-arbeidsmarktregio
+Een indeling in regio's van waaruit regionale werkgeversorganisaties, verenigd in het samenwerkingsverband RegioPlus, zich inzetten voor het behouden en aantrekken van voldoende en goed gekwalificeerd personeel in zorg en welzijn. Deze indeling is tot stand gekomen vanuit dit samenwerkingsverband."
+RT0000;P00005;57;Ressorten (rechtsgebieden);"RT = Ressort (rechtsgebied)
+Lokalisering van gemeenten per ressort. Een ressort is het rechtsgebied van één van de gerechtshoven in Nederland. Elke ressort beslaat een aantal arrondissementen, dat zijn de rechtsgebieden van de rechtbanken.
+"
+ET0000;P00005;60;SubRES-regio’s;"ET = SubRES-regio
+Een onderverdeling van de RES-regio’s; de volgende RES-regio’s zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30).
+"
+TR0000;P00005;63;Toeristengebieden;"TR = Toeristengebied
+Lokalisering van gemeenten per toeristengebied. De indeling in toeristengebieden is ontworpen in 1972 voor statistieken op het terrein van de toeristische dienstverlening en vrijetijdsbesteding. De gebieden zijn niet noodzakelijkerwijs aaneensluitend.
+
+Van de gemeente 's-Gravenhage horen de onderdelen 'Kijkduin' en 'Scheveningen' en van de gemeente Rotterdam het onderdeel 'Hoek van Holland' niet tot het toeristengebied '4 grote steden excl. Noordzeebadplaatsen' (code TR16) maar tot het toeristengebied 'Noordzeebadplaatsen' (code TR02). Deze uitzonderingen zijn afgebakend als clusters van postcodegebieden:
+
+-	Kijkduin (postcode 2554 en 2555).
+-	Scheveningen (postcode 2583, 2584, 2586 en 2587).
+-	Hoek van Holland (postcode 3150 en 3151).
+
+"
+TG0000;P00005;66;Toeristengebieden (groepen);"TG = Groep van toeristengebieden
+Lokalisering van gemeenten per groep van toeristengebieden."
+VT0000;P00005;69;Veilig Thuis Regio's;"VT = Veilig Thuis regio
+Een indeling in regio’s waarin gemeenten met elkaar samenwerken voor de organisatie van een Advies- en Meldpunt Huiselijk Geweld en Kindermishandeling (ook wel Veilig Thuis genoemd), zoals vastgelegd in de Wet Maatschappelijke Ondersteuning 2015.
+"
+VR0000;P00005;72;Veiligheidsregio's;"VR = Veiligheidsregio
+Een veiligheidsregio is een gebied waarin de brandweer, de Geneeskundige Hulpverlening bij Ongevallen en Rampen (GHOR), de politie en gemeenten samenwerken voor een effectieve voorbereiding op en bestrijding van crises en rampen.
+"
+ZK0000;P00005;75;Zorgkantoorregio's;"ZK = Zorgkantoorregio
+Groepering van gemeenten die samenhangt met de uitvoering van de Algemene Wet Bijzondere Ziektekosten (AWBZ) (tot 2015) of Wet langdurige zorg (Wlz) (vanaf 2017). Een zorgkantoor, nauw gelieerd aan één van de AWBZ/Wlz-verzekeraars, voert de AWBZ/Wlz uit namens alle AWBZ/Wlz-verzekeraars voor alle verzekerden in zijn regio, dus ook voor verzekerden die bij andere AWBZ/Wlz-verzekeraars staan ingeschreven. De indeling is voor het laatst herzien op 1 januari 2016.
+
+
+"
+M003262;;78;Grootte en stedelijkheid van gemeenten;Dit onderdeel bevat de indeling van gemeenten naar gemeentegrootte, op basis van inwonertal, en de indeling naar stedelijkheid, op basis van de omgevingsadressendichtheid.
+T001036_1;M003262;79;Gemeentegrootte;De toedeling naar gemeentegrootte gebeurt op basis van het inwonertal van de gemeente.
+T001086;M003262;82;Stedelijkheid;"De indeling van gemeenten naar stedelijkheid is gebaseerd op de omgevingsadressendichtheid van de gemeente. Allereerst is voor ieder adres binnen een gemeente de adressendichtheid vastgesteld van een gebied met een straal van 1 km rondom dat adres. De omgevingsadressendichtheid van een gemeente is de gemiddelde waarde hiervan voor alle adressen binnen die gemeente. De vijf stedelijkheidsklassen zijn gebaseerd op klassegrenzen van 2500, 1500, 1000 en 500 adressen per km².
+De volgende klassen worden onderscheiden:
+Zeer sterk stedelijk (omgevingsadressendichtheid van 2500 of meer, code 1)
+Sterk stedelijk (omgevingsadressendichtheid van 1500 tot 2500, code 2)
+Matig stedelijk (omgevingsadressendichtheid van 1000 tot 1500, code 3)
+Weinig stedelijk (omgevingsadressendichtheid van 500 tot 1000, code 4)
+Niet stedelijk (omgevingsadressendichtheid van minder dan 500, code 5)
+Meer informatie is opgenomen in de Maandstatistiek van de bevolking, juli 1992, en het Statistisch magazine nr. 3, 1992.
+"
+M006794;;85;Statistische gegevens;In dit onderdeel zijn cijfers opgenomen over inwonertal en omgevingsadressendichtheid.
